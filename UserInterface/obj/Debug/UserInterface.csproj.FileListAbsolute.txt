@@ -1,0 +1,11 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\UserInterface\bin\Debug\UserInterface.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\UserInterface\bin\Debug\UserInterface.dll
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.dll
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\UserInterface\obj\Debug\UserInterface.pdb

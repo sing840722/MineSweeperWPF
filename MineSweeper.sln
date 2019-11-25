@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeper", "MineSweeper\MineSweeper.csproj", "{6C5B5A56-7D94-409E-A001-F073F44A6CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{57E1B2F9-E6F3-4FF3-9CB0-F05E408E4D76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInterface", "UserInterface\UserInterface.csproj", "{56C05831-FF3B-461F-9B47-3E104435948F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C5B5A56-7D94-409E-A001-F073F44A6CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5B5A56-7D94-409E-A001-F073F44A6CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5B5A56-7D94-409E-A001-F073F44A6CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5B5A56-7D94-409E-A001-F073F44A6CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57E1B2F9-E6F3-4FF3-9CB0-F05E408E4D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E1B2F9-E6F3-4FF3-9CB0-F05E408E4D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E1B2F9-E6F3-4FF3-9CB0-F05E408E4D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57E1B2F9-E6F3-4FF3-9CB0-F05E408E4D76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C05831-FF3B-461F-9B47-3E104435948F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C05831-FF3B-461F-9B47-3E104435948F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C05831-FF3B-461F-9B47-3E104435948F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C05831-FF3B-461F-9B47-3E104435948F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8273B285-332C-45CE-A92D-A08D53A8A4C5}
+	EndGlobalSection
+EndGlobal

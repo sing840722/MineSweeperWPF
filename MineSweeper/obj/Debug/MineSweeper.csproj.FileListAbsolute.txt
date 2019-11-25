@@ -1,0 +1,38 @@
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MainWindow.g.cs
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\App.g.cs
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper_MarkupCompile.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper_MarkupCompile.lref
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MainWindow.baml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.g.resources
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe.config
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.exe
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.pdb
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\MineSweeper.exe
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\MineSweeper.pdb
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csprojResolveAssemblyReference.cache
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MainWindow.g.cs
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\App.g.cs
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper_MarkupCompile.cache
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper_MarkupCompile.lref
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MainWindow.baml
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.g.resources
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.Properties.Resources.resources
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.GenerateResource.Cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\Game.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\Game.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\obj\Debug\MineSweeper.csproj.CopyComplete
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\Game.dll
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\UserInterface.dll
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\Game.pdb
+C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\UserInterface.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\UserInterface.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week5\Day1\MineSweeper\MineSweeper\bin\Debug\UserInterface.pdb
